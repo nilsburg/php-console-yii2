@@ -1,6 +1,6 @@
 <?php
 
-namespace app\components;
+namespace nilsburg\PhpConsole;
 use Yii;
 use PhpConsole\Connector;
 use PhpConsole\Helper;
