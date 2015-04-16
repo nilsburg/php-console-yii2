@@ -1,0 +1,20 @@
+{
+    "name": "nilsburg/php-console-yii2",
+    "description": "PhpConsole wrapper for Yii2",
+    "require": {
+        "php": ">=5.3.0",
+        "phpconsole/phpconsole": "~3.3"
+    },
+    "authors": [
+        {
+            "name": "nilsburg",
+            "email": "nilsvdburg@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "php-console-yii2": "src/"
+        }
+    }
+}
