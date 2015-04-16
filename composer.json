@@ -3,7 +3,7 @@
     "description": "PhpConsole wrapper for Yii2",
     "require": {
         "php": ">=5.3.0",
-        "php-console/php-console": "3.*",
+        "php-console/php-console": "3.*"
     },
     "authors": [
         {
